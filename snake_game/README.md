@@ -1,2 +1,0 @@
-# pygame
-INIT challenge
